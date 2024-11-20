@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mehdiz5.github.io/mehdiwebsite/sitemap.xml
