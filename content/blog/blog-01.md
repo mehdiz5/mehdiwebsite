@@ -1,7 +1,7 @@
 ---
 title: "How to Structure a Deep Learning Reseach Project"
 date: 2024-12-03
-slug: guide-pytorch
+slug: how-to-structure-dl-research-project
 category: research
 summary:
 author: Mehdi Adjal Zakaria

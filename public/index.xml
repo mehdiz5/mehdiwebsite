@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Structure a Deep Learning Reseach Project</title>
-      <link>http://localhost:1313/blog/guide-pytorch/</link>
+      <link>http://localhost:1313/blog/how-to-structure-dl-research-project/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/guide-pytorch/</guid>
+      <guid>http://localhost:1313/blog/how-to-structure-dl-research-project/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;When working on a research project especially large scale ones it is necessary to organize the work and the choice frameworks from the beginning, inorder to not get overwhelmed by the sheer volume of experiments and to keep track of the diffrent aspects of your research project ( improvments, experiments &amp;hellip; ).&lt;/p&gt;
 &lt;p&gt;In this short article I will be presenting a standard simple way of organizing your work and experiments, the choice of frameworks and the overall flow.&lt;/p&gt;</description>
