@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mehdiadjal.com/papers/hhnet/</loc>
-    <lastmod>2024-04-04T00:00:00+00:00</lastmod>
+    <loc>https://mehdiadjal.com/blog/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mehdiadjal.com/blog/guide-pytorch/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mehdiadjal.com/</loc>
+    <lastmod>2024-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://mehdiadjal.com/papers/hhnet/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://mehdiadjal.com/papers/</loc>
@@ -17,7 +23,7 @@
     <loc>https://mehdiadjal.com/papers/meta/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://mehdiadjal.com/blog/</loc>
+    <loc>https://mehdiadjal.com/blog/blog/</loc>
   </url><url>
     <loc>https://mehdiadjal.com/categories/</loc>
   </url><url>
