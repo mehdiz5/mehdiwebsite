@@ -18,7 +18,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: MehdiZakariaAdjal
-  description: "Welcome to the website of Adjal Mehdi Zakaria, an aspiring AI/ML engineer and researcher , currently a masters student. Known for my curiosity and drive, I am currently on the lookout for an internship where I can apply my skills and contribute to cutting-edge innovations in machine learning and artificial intelligence."
+  description: "I'm Adjal Mehdi Zakaria, an AI Engineer and a PhD candidate at CEA-LIST exploring how large multimodal models can develop a richer understanding of space and time. My research interests include AI, Deep learning, Multimodality and Learning Theory."
   keywords: [AI, Deep learning, Learning Theory]
   author: Mehdi Zakaria Adjal
   # author: ["Me", "You"] # multiple authors
@@ -49,7 +49,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "Welcome to the website of **Mehdi Zakaria Adjal**, an aspiring **AI/ML engineer and researcher** , currently a masters student. **Currently on the lookout for an internship and Ph.D offers**."
+    subtitle: "I'm **Adjal Mehdi Zakaria**, an **AI Engineer** and a **PhD candidate at CEA** exploring how large multimodal models can develop a richer understanding of space and time. My research interests include AI, Deep learning, Multimodality and Learning Theory."
     imageUrl: "images/me2.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -65,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
-    Content: "Welcome to the website of **Mehdi Zakaria Adjal**, an aspiring **AI/ML engineer and researcher** with a passion for pushing the boundaries of technology. **Currently on the lookout for an internship and Ph.D offers**."
+    Content: "I'm **Adjal Mehdi Zakaria**, an **AI Engineer** and a **PhD candidate at CEA** exploring how large multimodal models can develop a richer understanding of space and time. My research interests include AI, Deep learning, Multimodality and Learning Theory."
 
   socialIcons:
     - name: X
