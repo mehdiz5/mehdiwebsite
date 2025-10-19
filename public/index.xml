@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Mehdi Zakaria Adjal</title>
-    <link>http://localhost:1313/</link>
+    <link>https://mehdiadjal.com/</link>
     <description>Recent content on Mehdi Zakaria Adjal</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mehdiadjal.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Structure a Deep Learning Reseach Project</title>
-      <link>http://localhost:1313/blog/how-to-structure-dl-research-project/</link>
+      <link>https://mehdiadjal.com/blog/how-to-structure-dl-research-project/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/how-to-structure-dl-research-project/</guid>
+      <guid>https://mehdiadjal.com/blog/how-to-structure-dl-research-project/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;When working on a research project especially large scale ones it is necessary to organize the work and the choice frameworks from the beginning, inorder to not get overwhelmed by the sheer volume of experiments and to keep track of the diffrent aspects of your research project ( improvments, experiments &amp;hellip; ).&lt;/p&gt;
 &lt;p&gt;In this short article I will be presenting a standard simple way of organizing your work and experiments, the choice of frameworks and the overall flow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Leveraging High-Resolution Features for Improved Deep Hashing-based Image Retrieval</title>
-      <link>http://localhost:1313/papers/hhnet/</link>
+      <link>https://mehdiadjal.com/papers/hhnet/</link>
       <pubDate>Thu, 04 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/hhnet/</guid>
+      <guid>https://mehdiadjal.com/papers/hhnet/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;Deep hashing techniques have emerged as the predominant approach for efficient image retrieval. Traditionally, these methods utilize pre-trained convolutional neural networks (CNNs) such as AlexNet and VGG-16 as feature extractors. However, the increasing complexity of datasets poses challenges for these backbone architectures in capturing meaningful features essential for effective image retrieval. In this study, we explore the efficacy of employing high-resolution features learned through state-of-the-art techniques for image retrieval tasks. Specifically, we propose a novel methodology that utilizes High-Resolution Networks (HRNets) as the backbone for the deep hashing task, termed High-Resolution Hashing Network (HHNet). Our approach demonstrates superior performance compared to existing methods across all tested benchmark datasets, including CIFAR-10, NUS-WIDE, MS COCO, and ImageNet. This performance improvement is more pronounced for complex datasets, which highlights the need to learn high-resolution features for intricate image retrieval tasks. Furthermore, we conduct a comprehensive analysis of different HRNet configurations and provide insights into the optimal architecture for the deep hashing task&lt;/p&gt;</description>
     </item>
     <item>
       <title>A Novel Hybrid Approach Combining Beam Search and DeepWalk for Community Detection in Social Networks.</title>
-      <link>http://localhost:1313/papers/beamwalk/</link>
+      <link>https://mehdiadjal.com/papers/beamwalk/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/beamwalk/</guid>
+      <guid>https://mehdiadjal.com/papers/beamwalk/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;In the era of rapidly expanding social networks, community detection within social graphs plays a pivotal role in various applications such as targeted marketing, content recommendations, and understanding social dynamics. Community detection problem consists of finding a strategy for detecting cohesive groups, based on shared interests, choices, and preferences, given a social network where nodes represent users and edges represent interactions between them. In this work, we propose a hybrid method for the community detection problem that encompasses both traditional tree search algorithms and deep learning techniques. We begin by introducing a beam-search algorithm with a modularity-based agglomeration function as a foundation. To enhance its performance, we further hybridize this approach by incorporating DeepWalk embeddings into the process and leveraging a novel similarity metric for community structure assessment. Experimentation on both synthetic and real-world networks demonstrates the effectiveness of our method, particularly excelling in small to medium-sized networks, outperforming widely adopted methods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Boosting Metaheuristics with Hybridized Low-Level Machine Learning for Enhanced Performance in Flow Shop Permutation Problems.</title>
-      <link>http://localhost:1313/papers/meta/</link>
+      <link>https://mehdiadjal.com/papers/meta/</link>
       <pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/meta/</guid>
+      <guid>https://mehdiadjal.com/papers/meta/</guid>
       <description>&lt;h1 id=&#34;abstract&#34;&gt;Abstract&lt;/h1&gt;
 &lt;p&gt;The Permutation Flow Shop Scheduling Problem (PFSP) is a well-known combinatorial optimization problem that has been extensively studied in the literature. Traditional approaches, such as metaheuristics, have been widely used to tackle this problem, but often face limitations related to parameter selection, computational time, and the generation of initial solutions. To address these challenges, this paper proposes the utilization of two machine learning models based on the CatBoost regressor algorithm, tailored to the number of machines involved in the scheduling problem. By combining these two models with the Ant Colony Optimization (ACO) metaheuristic, we enhance its performance significantly. The first model focuses on generating high-quality initial solutions that outperform the commonly used NEH heuristic, all while maintaining computational efficiency. On the other hand, the second model is designed to expedite the enhancement of a given schedule through an efficient local search approach. To assess the efficacy of our proposed approach, we conducted extensive experiments, comparing its performance against traditional techniques using Taillard instances as benchmarks. The results of our evaluation consistently showcased the superiority of our approach, surpassing the performance of the benchmarked methods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/blog/</link>
+      <link>https://mehdiadjal.com/blog/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog/</guid>
+      <guid>https://mehdiadjal.com/blog/blog/</guid>
       <description>&lt;h1 id=&#34;-exciting-content-coming-soon-&#34;&gt;🚀 Exciting Content Coming Soon! ✨&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/experience/</link>
+      <link>https://mehdiadjal.com/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/experience/</guid>
+      <guid>https://mehdiadjal.com/experience/</guid>
       <description>&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -78,9 +78,9 @@
     </item>
     <item>
       <title>Manuscripts</title>
-      <link>http://localhost:1313/papers/research/</link>
+      <link>https://mehdiadjal.com/papers/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/papers/research/</guid>
+      <guid>https://mehdiadjal.com/papers/research/</guid>
       <description>&lt;h2 id=&#34;-manuscripts&#34;&gt;✍️ Manuscripts&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Bio-Inspired Neural Architecture and Learning&lt;/strong&gt;&lt;br&gt;
@@ -97,9 +97,9 @@ Aymene Berriche, Mehdi Adjal Zakaria, Riyadh Baghdadi&lt;/li&gt;
     </item>
     <item>
       <title>Projects and Skills</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://mehdiadjal.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://mehdiadjal.com/projects/</guid>
       <description>&lt;h2 id=&#34;-skills&#34;&gt;🛠️ Skills&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, PyTorch, R, JavaScript, C, C++, MATLAB&lt;/li&gt;

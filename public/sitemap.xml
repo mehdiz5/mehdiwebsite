@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://mehdiadjal.com/blog/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/how-to-structure-dl-research-project/</loc>
+    <loc>https://mehdiadjal.com/blog/how-to-structure-dl-research-project/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://mehdiadjal.com/</loc>
     <lastmod>2024-12-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/hhnet/</loc>
+    <loc>https://mehdiadjal.com/papers/hhnet/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/</loc>
+    <loc>https://mehdiadjal.com/papers/</loc>
     <lastmod>2024-04-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/beamwalk/</loc>
+    <loc>https://mehdiadjal.com/papers/beamwalk/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/papers/meta/</loc>
+    <loc>https://mehdiadjal.com/papers/meta/</loc>
     <lastmod>2023-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/blog/</loc>
+    <loc>https://mehdiadjal.com/blog/blog/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://mehdiadjal.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/experience/</loc>
+    <loc>https://mehdiadjal.com/experience/</loc>
   </url><url>
-    <loc>http://localhost:1313/papers/research/</loc>
+    <loc>https://mehdiadjal.com/papers/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://mehdiadjal.com/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://mehdiadjal.com/tags/</loc>
   </url>
 </urlset>

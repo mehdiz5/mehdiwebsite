@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blogs on Mehdi Zakaria Adjal</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://mehdiadjal.com/blog/</link>
     <description>Recent content in Blogs on Mehdi Zakaria Adjal</description>
     <generator>Hugo -- 0.151.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mehdiadjal.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Structure a Deep Learning Reseach Project</title>
-      <link>http://localhost:1313/blog/how-to-structure-dl-research-project/</link>
+      <link>https://mehdiadjal.com/blog/how-to-structure-dl-research-project/</link>
       <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/how-to-structure-dl-research-project/</guid>
+      <guid>https://mehdiadjal.com/blog/how-to-structure-dl-research-project/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;When working on a research project especially large scale ones it is necessary to organize the work and the choice frameworks from the beginning, inorder to not get overwhelmed by the sheer volume of experiments and to keep track of the diffrent aspects of your research project ( improvments, experiments &amp;hellip; ).&lt;/p&gt;
 &lt;p&gt;In this short article I will be presenting a standard simple way of organizing your work and experiments, the choice of frameworks and the overall flow.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/blog/blog/</link>
+      <link>https://mehdiadjal.com/blog/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/blog/</guid>
+      <guid>https://mehdiadjal.com/blog/blog/</guid>
       <description>&lt;h1 id=&#34;-exciting-content-coming-soon-&#34;&gt;🚀 Exciting Content Coming Soon! ✨&lt;/h1&gt;</description>
     </item>
   </channel>
