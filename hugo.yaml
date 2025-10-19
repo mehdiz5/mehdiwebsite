@@ -65,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Welcome! \U0001F44B"
-    Content: "I'm **Adjal Mehdi Zakaria**, an **AI Engineer** and a **PhD candidate at CEA** exploring how large multimodal models can develop a richer understanding of space and time. My research interests include AI, Deep learning, Multimodality and Learning Theory."
+    Content: "I'm **Mehdi Zakaria ADJAL**, an **AI Engineer** and a **PhD candidate at CEA** exploring how large multimodal models can develop a richer understanding of space and time. My research interests include AI, Deep learning, Multimodality and Learning Theory."
 
   socialIcons:
     - name: X
