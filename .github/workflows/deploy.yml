@@ -17,6 +17,18 @@ jobs:
       - name: Checkout repository (with submodules)
         uses: actions/checkout@v4
         with:
+          fetch-depth: 0
+          submodules: 'recursive'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.151.2'
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
       - name: Copy public -> docs
         run: |
           set -e
@@ -32,22 +44,10 @@ jobs:
           set -e
           git config user.name "$GIT_AUTHOR_NAME"
           git config user.email "$GIT_AUTHOR_EMAIL"
-          if git status --porcelain | grep -q '^'; then
+          if [ -n "$(git status --porcelain)" ]; then
             git add docs
-            # commit with [skip ci] to avoid retriggering workflows
             git commit -m "chore(site): update docs site [skip ci]" || echo "no changes to commit"
             git push origin HEAD:main
           else
             echo "No changes to docs; nothing to commit"
           fi
-          hugo-version: '0.151.2'
-          extended: true
-
-      - name: Build site
-        run: hugo --minify
-
-      - name: Deploy to gh-pages using PAT
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.PAGES_PAT }}
-          publish_dir: ./public
