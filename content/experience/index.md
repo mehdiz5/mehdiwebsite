@@ -6,7 +6,7 @@ draft: false
 
 ## 🎓 Education
 - **Doctoral School: ED STIC – Sciences et Technologies de l’Information et de la Communication**  
-  *Université Paris-Saclay* (March 2025 – Present)  
+  *Université Paris-Saclay* (November 2025 – Present)  
   - PhD program under the CEA-LIST institute, focusing on **large multimodal models** and their **spatial–temporal understanding**.  
   - Research supervised within the *Artificial Intelligence and Data Science* theme.
 
