@@ -28,10 +28,11 @@ draft: false
   - Bridging multimodal perception and reasoning to enhance next-generation intelligent systems.
 
 - **Large Language Models Research Intern**  
-  *IRT SystemX, Saclay, France* (March 2025 – Present)  
+  *IRT SystemX, Saclay, France* (March 2025 – September 2025)  
   - Adapted large language models (LLMs) for multimodal time series analysis, anomaly detection, and forecasting.  
   - Developed a retrieval-augmented generation (RAG) system for intelligent diagnosis from time series data.  
-  - Contributed to improving LLM performance on temporal reasoning and forecasting tasks.
+  - Designed a **novel method for evaluating LLM outputs without relying on ground truth**, leveraging semantic consistency and model-based agreement metrics.  
+  - Contributed to improving LLM performance and interpretability in temporal reasoning and forecasting tasks.
 
 - **Research Intern in Machine Learning**  
   *New York University Abu Dhabi* (Remote) (August 2023 – September 2024)  
