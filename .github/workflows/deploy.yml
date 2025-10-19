@@ -6,7 +6,7 @@ on:
       - main
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -17,12 +17,29 @@ jobs:
       - name: Checkout repository (with submodules)
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-          submodules: 'recursive'
+      - name: Copy public -> docs
+        run: |
+          set -e
+          rm -rf docs || true
+          mkdir -p docs
+          cp -R public/* docs/
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
+      - name: Commit and push docs
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          set -e
+          git config user.name "$GIT_AUTHOR_NAME"
+          git config user.email "$GIT_AUTHOR_EMAIL"
+          if git status --porcelain | grep -q '^'; then
+            git add docs
+            # commit with [skip ci] to avoid retriggering workflows
+            git commit -m "chore(site): update docs site [skip ci]" || echo "no changes to commit"
+            git push origin HEAD:main
+          else
+            echo "No changes to docs; nothing to commit"
+          fi
           hugo-version: '0.151.2'
           extended: true
 
