@@ -56,25 +56,23 @@
       <description>&lt;h2 id=&#34;-education&#34;&gt;🎓 Education&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Doctoral School: ED STIC – Sciences et Technologies de l’Information et de la Communication&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Université Paris-Saclay&lt;/em&gt; (March 2025 – Present)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD program under the CEA-LIST institute, focusing on &lt;strong&gt;large multimodal models&lt;/strong&gt; and their &lt;strong&gt;spatial–temporal understanding&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Research supervised within the &lt;em&gt;Artificial Intelligence and Data Science&lt;/em&gt; theme.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Master in Machine Learning for Data Science&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;Université Paris Cité&lt;/em&gt; (September 2024 – Present)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Focus: Machine Learning, Deep Learning, NLP, Computer Vision, and Recommender Systems.&lt;/li&gt;
+&lt;li&gt;Focus: Machine Learning, Deep Learning, NLP, Computer Vision, Reinforcement Learning, and Recommender Systems.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Engineer and Master in Computer Science (Specialization: Intelligent Systems and Data)&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;École Nationale Supérieure d’Informatique&lt;/em&gt; (September 2019 – July 2024)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Focus: Mathematical Analysis, Probability, Machine Learning, Distributed AI, Stochastic Simulation, etc.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-professional-experience&#34;&gt;💼 Professional Experience&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Research Intern&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;New York University Abu Dhabi&lt;/em&gt; (Remote) (August 2023 – September 2024)&lt;/p&gt;</description>
+&lt;em&gt;École Nationale Supérieure d’Informatique&lt;/em&gt; (September 2019 – July 2024)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manuscripts</title>
@@ -102,23 +100,20 @@ Aymene Berriche, Mehdi Adjal Zakaria, Riyadh Baghdadi&lt;/li&gt;
       <guid>https://mehdiadjal.com/projects/</guid>
       <description>&lt;h2 id=&#34;-skills&#34;&gt;🛠️ Skills&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python, PyTorch, R, JavaScript, C, C++, MATLAB&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Machine Learning:&lt;/strong&gt; NLP, CV, Reinforcement Learning&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; VS Code, Git, Docker, LangChain, Scikit-Learn&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; English (Fluent), French (Fluent), Arabic (Fluent)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Programming:&lt;/strong&gt; Python (PyTorch, Lightning, NumPy, Pandas, Matplotlib), Rust, C, R&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning &amp;amp; AI:&lt;/strong&gt; Deep Learning, Computer Vision, NLP, Reinforcement Learning, Transfer Learning, Transformers, GANs&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks &amp;amp; Tools:&lt;/strong&gt; PyTorch, Scikit-Learn, Lightning, LangChain, Hugging Face Transformers, Docker, Git, VS Code, Jupyter, UNIX/Linux&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Research &amp;amp; Development:&lt;/strong&gt; Retrieval-Augmented Generation (RAG), Multimodal Learning, Generative AI, Time Series Forecasting&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; English (C1), French (C1), Arabic (Native)&lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;-projects&#34;&gt;🏆 Projects&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;GPT From Scratch:&lt;/strong&gt;&lt;br&gt;
-Built a generative language model, implementing training and optimization for text generation.&lt;br&gt;
-&lt;em&gt;Tools Used:&lt;/em&gt; Python, PyTorch, NLTK.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Kurio App:&lt;/strong&gt;&lt;br&gt;
-Developed a mobile app leveraging LLMs for educational storytelling and quizzes.&lt;br&gt;
-Awarded 3rd place at GAIA Hackathon.&lt;br&gt;
-&lt;em&gt;Tools Used:&lt;/em&gt; Python, Langchain, OpenAI API.&lt;/p&gt;</description>
+&lt;p&gt;&lt;strong&gt;Self-Supervised Image Classification&lt;/strong&gt;&lt;br&gt;
+Implemented a self-supervised contrastive learning pipeline for image representation learning and downstream classification.&lt;br&gt;
+Trained models on unlabeled datasets and evaluated their features using linear probing.&lt;br&gt;
+&lt;em&gt;Tools Used:&lt;/em&gt; Python, PyTorch, torchvision, NumPy, Matplotlib.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
